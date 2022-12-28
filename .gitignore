@@ -1,1 +1,3 @@
 senhas.txt
+*.log
+log/
